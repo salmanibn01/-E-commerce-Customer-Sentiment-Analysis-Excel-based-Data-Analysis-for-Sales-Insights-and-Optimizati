@@ -9,4 +9,19 @@ Follow the same procedure to change 'W' to 'Women'
 -- Cleaned the cells from the QTY (quantity) column using the same proceudre
 'One' to 1 and 'Two' to 2
 
+## Data Processing
+-- Defining the relationship between gender and age using IF formula (We are creating an age bucket)
+First create a new clomun called Age Group
+Use of IF function 
+=IF(E2>=50, "Senior", IF(E2 >=30, "Adult","Teenager"))
+
+-- Determining the month with highest sales 
+Add a new table called Month
+-- Extracting the months from the dates using TEXT function
+=TEXT(G2,"mmm")
+
+## Data Analysis
+Showing Sales and Orders in the same chart Using pivot table
+
+
 
