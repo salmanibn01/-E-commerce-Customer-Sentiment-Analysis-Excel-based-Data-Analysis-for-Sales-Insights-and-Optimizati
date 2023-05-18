@@ -22,6 +22,9 @@ Add a new table called Month
 
 ## Data Analysis
 Showing Sales and Orders in the same chart Using pivot table
+Drag amount to Values for total sales
+Drag Order ID to Values for total number of orders
+Drag Month to rows as we want it on the basis of months
 
 
 
