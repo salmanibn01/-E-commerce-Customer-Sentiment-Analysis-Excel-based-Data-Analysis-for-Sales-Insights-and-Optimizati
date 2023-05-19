@@ -1,3 +1,12 @@
+## Sample Questions
+* Compare the sales and orders using sales chart
+* Which month has the highest sales and orders?
+* Who purcahded more (men or women) in 2022?
+* What are the different order status in 2022?
+* Relation between age and number based on different numbers?
+* Which channels contribute to the maximum sales
+* Which is the highest selling category? 
+
 ## Excel_-Data_Analysis-Project
 -- E-comerce Customer Sentiment Analysis Using Microsoft Excel  
 
